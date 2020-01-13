@@ -1,0 +1,16 @@
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.csprojAssemblyReference.cache
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.RazorAssemblyInfo.cache
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.RazorAssemblyInfo.cs
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.AssemblyInfoInputs.cache
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.AssemblyInfo.cs
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/appsettings.json
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/MongoDbNetCore.deps.json
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/MongoDbNetCore.runtimeconfig.json
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/MongoDbNetCore.runtimeconfig.dev.json
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/MongoDbNetCore.dll
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/bin/Debug/netcoreapp2.1/MongoDbNetCore.pdb
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.RazorTargetAssemblyInfo.cache
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.dll
+/home/thang/Projects/MongoDbNetCore/MongoDbNetCore/obj/Debug/netcoreapp2.1/MongoDbNetCore.pdb
